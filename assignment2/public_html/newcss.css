@@ -1,0 +1,33 @@
+#banner_image
+{   
+    padding-top: 300px;
+padding-bottom: 50px;
+color: #f8f8f8;
+background: url(intro.jpg) no-repeat center center;
+background-size: cover;
+text-align: center;
+
+}
+
+#banner_content{
+    position:relative;
+    padding-top: 6%;
+    padding-bottom:6%;
+    max-width: 660px;
+    
+    margin-bottom:12%;
+background-color: rgba(0,0,0,0.7);}
+
+.thumbnail{
+    display: block;
+    align-content: center;
+   
+}
+
+.caption{
+text-align: center;
+}
+
+#new{
+    border: 1px solid black;    
+}
